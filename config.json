@@ -2,6 +2,7 @@
 	"crops": [
 		{
 			"buy": 70,
+			"XP" : 21
 			"harvest": {},
 			"id": "amaranth",
 			"index": 299,
@@ -20,6 +21,7 @@
 		},
 		{
 			"buy": 700,
+			"XP" : 38
 			"harvest": {},
 			"id": "ancient_fruit",
 			"index": 499,
@@ -41,6 +43,7 @@
 		},
 		{
 			"buy": 30,
+			"XP" : 22
 			"harvest": {},
 			"id": "artichoke",
 			"index": 489,
@@ -59,6 +62,7 @@
 		},
 		{
 			"buy": 20,
+			"XP" : 16
 			"harvest": {},
 			"id": "beet",
 			"index": 494,
@@ -76,6 +80,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "blackberry",
 			"index": 410,
@@ -89,6 +94,7 @@
 		},
 		{
 			"buy": 30,
+			"XP" : 10
 			"harvest": {},
 			"id": "blue_jazz",
 			"index": 429,
@@ -106,6 +112,7 @@
 		},
 		{
 			"buy": 80,
+			"XP" : 10
 			"harvest": {
 				"extra_chance": 0.02,
 				"level_increase": 0,
@@ -130,6 +137,7 @@
 		},
 		{
 			"buy": 50,
+			"XP" : 14
 			"harvest": {},
 			"id": "bok_choy",
 			"index": 491,
@@ -147,6 +155,7 @@
 		},
 		{
 			"buy": 150,
+			"XP" : 14
 			"harvest": {},
 			"id": "cactus_fruit",
 			"index": 802,
@@ -170,6 +179,7 @@
 		},
 		{
 			"buy": 80,
+			"XP" : 23
 			"harvest": {},
 			"id": "cauliflower",
 			"index": 474,
@@ -188,6 +198,7 @@
 		},
 		{
 			"buy": 2500,
+			"XP" : 4
 			"harvest": {
 				"extra_chance": 0.02,
 				"level_increase": 0,
@@ -214,6 +225,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "common_mushroom",
 			"index": 404,
@@ -227,6 +239,7 @@
 		},
 		{
 			"buy": 150,
+			"XP" : 10
 			"harvest": {},
 			"id": "corn",
 			"index": 487,
@@ -247,6 +260,7 @@
 		},
 		{
 			"buy": 240,
+			"XP" : 14
 			"harvest": {
 				"extra_chance": 0.1,
 				"level_increase": 0,
@@ -271,6 +285,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "crocus",
 			"index": 418,
@@ -284,6 +299,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "crystal_fruit",
 			"index": 414,
@@ -297,6 +313,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "daffodil",
 			"index": 18,
@@ -310,6 +327,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "dandelion",
 			"index": 22,
@@ -323,6 +341,7 @@
 		},
 		{
 			"buy": 20,
+			"XP" : 12
 			"harvest": {
 				"extra_chance": 0.002,
 				"level_increase": 0,
@@ -347,6 +366,7 @@
 		},
 		{
 			"buy": 200,
+			"XP" : 29
 			"harvest": {},
 			"id": "fairy_rose",
 			"index": 425,
@@ -364,6 +384,7 @@
 		},
 		{
 			"buy": 23,
+			"XP" : 7
 			"harvest": {},
 			"id": "fall_seeds",
 			"index": 497,
@@ -385,6 +406,7 @@
 		},
 		{
 			"buy": 40,
+			"XP" : 12
 			"harvest": {},
 			"id": "garlic",
 			"index": 476,
@@ -402,6 +424,7 @@
 		},
 		{
 			"buy": 60,
+			"XP" : 14
 			"harvest": {},
 			"id": "grape",
 			"index": 301,
@@ -422,6 +445,7 @@
 		},
 		{
 		"buy": 0,
+		"XP" : 7
 		"harvest": {},
 		"id": "grape_wild",
 		"index": 398,
@@ -435,6 +459,7 @@
 		},
 		{
 			"buy": 60,
+			"XP" : 9
 			"harvest": {},
 			"id": "green_bean",
 			"index": 473,
@@ -455,6 +480,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "hazelnut",
 			"index": 408,
@@ -468,6 +494,7 @@
 		},
 		{
 			"buy": 60,
+			"XP" : 6
 			"harvest": {},
 			"id": "hops",
 			"index": 302,
@@ -488,6 +515,7 @@
 		},
 		{
 			"buy": 40,
+			"XP" : 9
 			"harvest": {
 				"extra_chance": 0.03,
 				"level_increase": 0,
@@ -512,6 +540,7 @@
 		},
 		{
 			"buy": 70,
+			"XP" : 17
 			"harvest": {},
 			"id": "kale",
 			"index": 477,
@@ -530,6 +559,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "leek",
 			"index": 20,
@@ -543,6 +573,7 @@
 		},
 		{
 			"buy": 80,
+			"XP" : 27
 			"harvest": {},
 			"id": "melon",
 			"index": 479,
@@ -561,6 +592,7 @@
 		},
 		{
 			"buy": 20,
+			"XP" : 8
 			"harvest": {},
 			"id": "parsnip",
 			"index": 472,
@@ -578,6 +610,7 @@
 		},
 		{
 			"buy": 100,
+			"XP" : 20
 			"harvest": {},
 			"id": "poppy",
 			"index": 453,
@@ -595,6 +628,7 @@
 		},
 		{
 			"buy": 50,
+			"XP" : 14
 			"harvest": {
 				"extra_chance": 0.2,
 				"level_increase": 0,
@@ -618,6 +652,7 @@
 		},
 		{
 			"buy": 100,
+			"XP" : 31
 			"harvest": {},
 			"id": "pumpkin",
 			"index": 490,
@@ -636,6 +671,7 @@
 		},
 		{
 			"buy": 40,
+			"XP" : 15
 			"harvest": {},
 			"id": "radish",
 			"index": 484,
@@ -653,6 +689,7 @@
 		},
 		{
 			"buy": 100,
+			"XP" : 28
 			"harvest": {},
 			"id": "red_cabbage",
 			"index": 485,
@@ -671,6 +708,7 @@
 		},
 		{
 			"buy": 100,
+			"XP" : 26
 			"harvest": {},
 			"id": "rhubarb",
 			"index": 478,
@@ -689,6 +727,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "snow_yam",
 			"index": 416,
@@ -702,6 +741,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "spice_berry",
 			"index": 396,
@@ -715,6 +755,7 @@
 		},
 		{
 			"buy": 18,
+			"XP" : 7
 			"harvest": {},
 			"id": "spring_seeds",
 			"index": 495,
@@ -736,6 +777,7 @@
 		},
 		{
 			"buy": 400,
+			"XP" : 43
 			"harvest": {},
 			"id": "starfruit",
 			"index": 486,
@@ -754,6 +796,7 @@
 		},
 		{
 			"buy": 100,
+			"XP" : 18
 			"harvest": {
 				"extra_chance": 0.02,
 				"level_increase": 0,
@@ -778,6 +821,7 @@
 		},
 		{
 			"buy": 21,
+			"XP" : 7
 			"harvest": {},
 			"id": "summer_seeds",
 			"index": 496,
@@ -798,6 +842,7 @@
 		},
 		{
 			"buy": 50,
+			"XP" : 15
 			"harvest": {},
 			"id": "summer_spangle",
 			"index": 455,
@@ -815,6 +860,7 @@
 		},
 		{
 			"buy": 125,
+			"XP" : 14
 			"harvest": {},
 			"id": "sunflower",
 			"index": 431,
@@ -834,6 +880,7 @@
 		},
 		{
 			"buy": 1000,
+			"XP" : 64
 			"harvest": {},
 			"id": "sweet_gem_berry",
 			"index": 347,
@@ -852,6 +899,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "sweet_pea",
 			"index": 402,
@@ -865,6 +913,7 @@
 		},
 		{
 			"buy": 50,
+			"XP" : 12
 			"harvest": {
 				"extra_chance": 0.05,
 				"level_increase": 0,
@@ -889,6 +938,7 @@
 		},
 		{
 			"buy": 20,
+			"XP" : 7
 			"harvest": {},
 			"id": "tulip",
 			"index": 427,
@@ -906,6 +956,7 @@
 		},
 		{
 			"buy": 40,
+			"XP" : 7
 			"harvest": {
 				"extra_chance": 0.1,
 				"level_increase": 10,
@@ -929,6 +980,7 @@
 		},
 		{
 			"buy": 10,
+			"XP" : 6
 			"harvest": {},
 			"id": "wheat",
 			"index": 483,
@@ -948,6 +1000,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "wild_horseradish",
 			"index": 16,
@@ -961,6 +1014,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "wild_plum",
 			"index": 406,
@@ -974,6 +1028,7 @@
 		},
 		{
 			"buy": 0,
+			"XP" : 7
 			"harvest": {},
 			"id": "winter_root",
 			"index": 412,
@@ -987,6 +1042,7 @@
 		},
 		{
 			"buy": 60,
+			"XP" : 22
 			"harvest": {},
 			"id": "yam",
 			"index": 492,
@@ -1004,6 +1060,7 @@
 		},
 		{
 			"buy": 38,
+			"XP" : 7
 			"harvest": {},
 			"id": "winter_seeds",
 			"index": 498,
