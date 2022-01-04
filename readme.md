@@ -5,22 +5,6 @@ A tool for planning crop schedules in the Stardew Valley game.
 #### **<a href="http://yekteniya.github.io/crop_planner/">Live version on github.io</a>**
 
 <a href="https://www.reddit.com/r/StardewValley/comments/55puw1/crop_planner_v2_released_multiple_years_importing/" target="_blank">v2 Reddit thread</a>
----
-This is an effort to expand the existing crop planner with many of the enhancements originally suggested in the reddit thread and a few others. Namely:
-
-* Notes Feature
-* Experience Tracker
-* Mixed Seeds(This is RNG based, so may or may not be too useful, but I'd like to get an "average" of possible XP and Gold yield)
-* Including costs of fertilizers when planting crops
-* Stopping crop regrowth on a specific day (for when you decide to dig up a crop)
-* Crops regrowing across multiple years (for greenhouse growing)
-* Plan tool upgrades with corresponding pick-up dates
-* Add money to daily budget
-* Might be used to offset cost of first 15 parsnip seeds, and other such things
-* Add custom notes to each day
-* Wild seeds
-* Botanist perk (?)
-
 
 ---
 ### Known issues
